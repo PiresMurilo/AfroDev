@@ -27,9 +27,8 @@ Perguntas obrigatórias:
 - Quanto times por esporte cada país tem.
 Atenção: Analise os dados, crie e disponibilize novas perguntas ao usuário.
 
-```
 
-## ✒️ Autores
+### ✒️ Autores
 
 * **Murilo Pires** - *Trabalho Inicial* - [desenvolvedor](https://github.com/PiresMurilo)
 

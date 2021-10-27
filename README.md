@@ -30,7 +30,7 @@ Atenção: Analise os dados, crie e disponibilize novas perguntas ao usuário.
 
 ### ✒️ Autores
 
-* **Murilo Pires** - *Trabalho Inicial* - [desenvolvedor](https://github.com/PiresMurilo)
+* **Murilo Pires** - [desenvolvedor](https://github.com/PiresMurilo)
 
 
 ## 📄 Licença
